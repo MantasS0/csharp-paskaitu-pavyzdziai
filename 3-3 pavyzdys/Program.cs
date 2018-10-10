@@ -4,16 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3_1_pavyzdys
+namespace _3_3_pavyzdys
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(5 + 3);
-            Console.WriteLine(2 * 7);
-            Console.WriteLine(4 - 7);
-            Console.WriteLine(4 / 2);
+            var skaiciavimas = 10 * (2 + 1) / 5;
+            Console.WriteLine(skaiciavimas);
         }
     }
 }

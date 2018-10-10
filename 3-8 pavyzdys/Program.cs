@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3_1_pavyzdys
+namespace _3_8_pavyzdys
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(5 + 3);
-            Console.WriteLine(2 * 7);
-            Console.WriteLine(4 - 7);
-            Console.WriteLine(4 / 2);
+            Console.WriteLine(7 % 4);
+            Console.WriteLine(8 % 3);
+            Console.WriteLine(17 % 7);
         }
     }
 }
