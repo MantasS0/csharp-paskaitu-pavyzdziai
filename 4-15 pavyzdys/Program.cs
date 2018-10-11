@@ -12,7 +12,7 @@ namespace _4_15_pavyzdys
         {
             Console.Write("iveskite simboli: ");
             var simbolis = (char)Console.Read();
-            Console.ReadLine(); // jeigu butu ivestas daugiau nei viena raide
+            Console.ReadLine(); // jeigu butu ivestas daugiau nei vienas simbolis
             Console.WriteLine("ivestas simbolis: " + simbolis);
         }
     }

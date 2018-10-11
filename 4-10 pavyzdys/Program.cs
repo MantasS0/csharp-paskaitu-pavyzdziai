@@ -10,7 +10,7 @@ namespace _4_10_pavyzdys
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("iveskite kelis pazymius (galima rasyti per kableli");
+            Console.WriteLine("iveskite kelis pazymius (galima rasyti per kableli)");
             var pazymys1 = Convert.ToDouble(Console.ReadLine());
             var pazymys2 = Convert.ToDouble(Console.ReadLine());
             var pazymys3 = Convert.ToDouble(Console.ReadLine());
