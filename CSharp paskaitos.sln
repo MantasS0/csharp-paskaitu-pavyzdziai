@@ -125,6 +125,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-15 pavyzdys", "4-15 pavyz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-16 pavyzdys", "4-16 pavyzdys\4-16 pavyzdys.csproj", "{0E0DA533-956A-4795-BDA5-BD78867D33C0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 if salyga", "05 if salyga", "{35F40EF5-6A0B-49FF-8B14-8472D428AB3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
