@@ -11,8 +11,9 @@ namespace _4_16_pavyzdys
         static void Main(string[] args)
         {
             Console.WriteLine("ar testi programos darba? (t/n)");
-            var pasirinkimas = Convert.ToChar(Console.ReadKey().KeyChar);
+            var pasirinkimas = Console.ReadKey().KeyChar;
             Console.WriteLine();
+            Console.Clear();
 
             Console.WriteLine("pasirinkta: " + pasirinkimas);
         }
