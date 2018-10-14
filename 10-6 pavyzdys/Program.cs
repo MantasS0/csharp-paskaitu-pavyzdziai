@@ -10,6 +10,18 @@ namespace _10_6_pavyzdys
     {
         static void Main(string[] args)
         {
+            var testi = true;
+
+            do
+            {
+                Console.WriteLine("cia kazkokie norimi veiksmai");
+                Console.WriteLine("testi? (t/n)");
+                var pasirinkimas = Console.ReadLine();
+                if (pasirinkimas != "t")
+                {
+                    testi = false;
+                }
+            } while (testi);
         }
     }
 }
