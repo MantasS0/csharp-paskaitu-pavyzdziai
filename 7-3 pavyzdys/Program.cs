@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _7_1_pavyzdys
+namespace _7_3_pavyzdys
 {
     class Program
     {
@@ -13,22 +13,21 @@ namespace _7_1_pavyzdys
             var skaicius = 2;
 
             if (skaicius == 1)
+            {
                 Console.WriteLine("skaicius lygus 1");
-            else if (skaicius == 2)
-                Console.WriteLine("skaicius lygus 2");
-            else if (skaicius == 3)
-                Console.WriteLine("skaicius lygus 3");
+            }
+            else
+            {
+                Console.WriteLine("skaicius nerastas");
+            }
 
             switch (skaicius)
             {
                 case 1:
                     Console.WriteLine("skaicius lygus 1");
                     break;
-                case 2:
-                    Console.WriteLine("skaicius lygus 2");
-                    break;
-                case 3:
-                    Console.WriteLine("skaicius lygus 3");
+                default:
+                    Console.WriteLine("skaicius nerastas");
                     break;
             }
         }
