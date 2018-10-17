@@ -16,6 +16,8 @@ namespace _11_8_pavyzdys
             {
                 Console.Write(skaiciai[i] + " ");
             }
+
+            Console.WriteLine();
         }
     }
 }
