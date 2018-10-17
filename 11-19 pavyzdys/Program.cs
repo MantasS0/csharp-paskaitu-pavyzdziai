@@ -10,7 +10,7 @@ namespace _11_19_pavyzdys
     {
         static void Main(string[] args)
         {
-            var skaiciai = new[] {4, 2, 5, 8, 3, 0, 1, -4, 8, 9, 7, 5};
+            var skaiciai = new[] {4, 2, 6, 8, 3, 0, 1, -4, 8, 9, 7, 5};
             var suma = 0;
 
             foreach (var sk in skaiciai)

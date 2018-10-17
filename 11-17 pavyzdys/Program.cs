@@ -22,7 +22,7 @@ namespace _11_17_pavyzdys
 
             for (int i = 0; i < skaiciai.Length; i++)
             {
-                Console.Write(skaiciai + " ");
+                Console.Write(skaiciai[i] + " ");
             }
 
             Console.WriteLine();
