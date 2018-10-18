@@ -335,10 +335,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-22 pavyzds", "11-22 pavy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-23 pavyzdys", "11-23 pavyzdys\11-23 pavyzdys.csproj", "{7DDD6074-9305-476E-AF1A-0D794649509E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12 multidimensional array", "12 multidimensional array", "{1A225458-97D1-42BC-A004-332590D63BEF}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13 jagged array", "13 jagged array", "{3263F6E8-5847-4404-B32C-496EEFC9408E}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15 sarasai", "15 sarasai", "{2EF40081-DEBE-4E2B-AAD6-172DF03AAA0A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16 metodai", "16 metodai", "{34578D55-AC60-4E3C-B2E3-74919181137B}"
@@ -368,8 +364,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-12 pavyzdys", "15-12 pavyzdys\15-12 pavyzdys.csproj", "{64026D3E-6EB9-4347-86E1-D9179EEA017A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-13 pavyzdys", "15-13 pavyzdys\15-13 pavyzdys.csproj", "{518F7B3F-EDE5-49DB-8C7F-B1F8AB81CC26}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-1 pavyzdys", "12-1 pavyzdys\12-1 pavyzdys.csproj", "{B1FFCA94-15A6-458F-B319-F96FD98E4970}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1049,10 +1043,6 @@ Global
 		{518F7B3F-EDE5-49DB-8C7F-B1F8AB81CC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{518F7B3F-EDE5-49DB-8C7F-B1F8AB81CC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{518F7B3F-EDE5-49DB-8C7F-B1F8AB81CC26}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B1FFCA94-15A6-458F-B319-F96FD98E4970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B1FFCA94-15A6-458F-B319-F96FD98E4970}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B1FFCA94-15A6-458F-B319-F96FD98E4970}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B1FFCA94-15A6-458F-B319-F96FD98E4970}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1226,7 +1216,6 @@ Global
 		{20F6DE6D-7CB3-417E-96F1-E53705749462} = {2EF40081-DEBE-4E2B-AAD6-172DF03AAA0A}
 		{64026D3E-6EB9-4347-86E1-D9179EEA017A} = {2EF40081-DEBE-4E2B-AAD6-172DF03AAA0A}
 		{518F7B3F-EDE5-49DB-8C7F-B1F8AB81CC26} = {2EF40081-DEBE-4E2B-AAD6-172DF03AAA0A}
-		{B1FFCA94-15A6-458F-B319-F96FD98E4970} = {1A225458-97D1-42BC-A004-332590D63BEF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94A49597-3AD4-4123-B249-1BF7F51EB5B8}
