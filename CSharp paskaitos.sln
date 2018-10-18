@@ -339,8 +339,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12 multidimensional array",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13 jagged array", "13 jagged array", "{3263F6E8-5847-4404-B32C-496EEFC9408E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14 darbas su failais", "14 darbas su failais", "{5353BA46-DDA0-4629-A72B-8F001E6C3872}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15 sarasai", "15 sarasai", "{2EF40081-DEBE-4E2B-AAD6-172DF03AAA0A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16 metodai", "16 metodai", "{34578D55-AC60-4E3C-B2E3-74919181137B}"
