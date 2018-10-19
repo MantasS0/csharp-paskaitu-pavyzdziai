@@ -14,8 +14,8 @@ namespace _19_8_pavyzdys
             var rand = new Random();
 
             var skaiciai = p.GeneruotiSkaicius(rand, 10, 10, 15);
-            p.Isvesti(skaiciai);
 
+            p.Isvesti(skaiciai);
             p.Isvesti(p.GeneruotiSkaicius(rand, 5, 10, 100));
         }
 

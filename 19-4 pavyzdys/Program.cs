@@ -14,12 +14,10 @@ namespace _19_4_pavyzdys
 
             Console.WriteLine(p.BetKoksSkaiciusBlogai(10, 100));
             Console.WriteLine(p.BetKoksSkaiciusBlogai(10, 100));
-            Console.WriteLine(p.BetKoksSkaiciusBlogai(10, 100));
             Console.ReadLine();
 
             var rand = new Random();
 
-            Console.WriteLine(p.BetKoksSkaiciusGerai(rand, 10, 100));
             Console.WriteLine(p.BetKoksSkaiciusGerai(rand, 10, 100));
             Console.WriteLine(p.BetKoksSkaiciusGerai(rand, 10, 100));
         }

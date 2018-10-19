@@ -11,12 +11,10 @@ namespace _19_7_pavyzdys
         static void Main(string[] args)
         {
             var p = new Program();
-
             var skaiciai = new List<int>{4, 7, 2, 3, 5, 8, 9, 5};
 
             var suma = p.Suma(skaiciai);
             Console.WriteLine("skaiciu suma: " + suma);
-
             Console.WriteLine("skaiciu suma: " + p.Suma(skaiciai));
         }
 

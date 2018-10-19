@@ -11,7 +11,7 @@ namespace _18_1_pavyzdys
         static void Main(string[] args)
         {
             var p = new Program();
-            p.Pasisveikinti("Ieva");
+            p.Pasisveikinti("Toma");
             p.Pasisveikinti("Gytis");
         }
 

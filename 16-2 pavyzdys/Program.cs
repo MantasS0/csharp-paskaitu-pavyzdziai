@@ -11,7 +11,7 @@ namespace _16_2_pavyzdys
         static void Main(string[] args)
         {
             Program.Metodas();
-            Metodas(); // kadangi esame toje pacioje klaseje
+            Metodas(); // jei toje pacioje klaseje
         }
 
         private static void Metodas()

@@ -11,12 +11,11 @@ namespace _18_11_pavyzdys
         static void Main(string[] args)
         {
             var p = new Program();
-            
+
             var pirmas = new List<int>{5, 8, 7, 1, 2, 3};
             var antras = new List<int>{1, 2, 3, 4, 5, 6, 7, 8, 9};
 
-            p.Suma(pirmas);
-            p.Suma(antras);
+            p.Suma(pirmas); p.Suma(antras);
         }
 
         public void Isvedimas(List<int> skaiciai)
