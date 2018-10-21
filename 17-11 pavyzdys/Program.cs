@@ -19,7 +19,7 @@ namespace _17_11_pavyzdys
         {
             var vardas = "Gabriele";
             var amzius = 25;
-            Console.WriteLine("{0} ({1 m.})", vardas, amzius);
+            Console.WriteLine("{0} ({1} m.)", vardas, amzius);
         }
 
         public void Klaidinga()

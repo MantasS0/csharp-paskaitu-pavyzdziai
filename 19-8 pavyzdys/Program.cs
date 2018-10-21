@@ -22,24 +22,19 @@ namespace _19_8_pavyzdys
         public List<int> GeneruotiSkaicius(Random rand, int kiek, int nuo, int iki)
         {
             var skaiciai = new List<int>();
-
             for (int i = 0; i < kiek; i++)
             {
                 skaiciai.Add(rand.Next(nuo, iki));
             }
-
             return skaiciai;
         }
-
         public void Isvesti(List<int> skaiciai)
         {
             Console.Write("skaiciai is saraso: ");
-
             foreach (var i in skaiciai)
             {
                 Console.Write(i + " ");
             }
-
             Console.WriteLine();
         }
     }
