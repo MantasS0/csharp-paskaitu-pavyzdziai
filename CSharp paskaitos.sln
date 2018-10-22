@@ -459,6 +459,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-7 pavyzdys", "20-7 pavyz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-8 pavyzdys", "20-8 pavyzdys\20-8 pavyzdys.csproj", "{068FED5D-4CB5-451C-BE6C-3142A909933B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-9 pavyzdys", "20-9 pavyzdys\20-9 pavyzdys.csproj", "{D00AE1CE-04AF-4140-AA77-284240485F41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1309,6 +1311,10 @@ Global
 		{068FED5D-4CB5-451C-BE6C-3142A909933B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{068FED5D-4CB5-451C-BE6C-3142A909933B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{068FED5D-4CB5-451C-BE6C-3142A909933B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00AE1CE-04AF-4140-AA77-284240485F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00AE1CE-04AF-4140-AA77-284240485F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00AE1CE-04AF-4140-AA77-284240485F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00AE1CE-04AF-4140-AA77-284240485F41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1525,6 +1531,7 @@ Global
 		{13F4F761-B4FF-49CF-B56F-1F3CD7ED133F} = {5734E621-6EB8-4953-9B2B-693434209EEC}
 		{875D8ECD-7448-49E6-B272-4198294CDAA6} = {5734E621-6EB8-4953-9B2B-693434209EEC}
 		{068FED5D-4CB5-451C-BE6C-3142A909933B} = {5734E621-6EB8-4953-9B2B-693434209EEC}
+		{D00AE1CE-04AF-4140-AA77-284240485F41} = {5734E621-6EB8-4953-9B2B-693434209EEC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94A49597-3AD4-4123-B249-1BF7F51EB5B8}
